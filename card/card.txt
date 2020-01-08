@@ -1,1 +1,0 @@
-card.php > set 80% > ระบุ tid=? > print screen
